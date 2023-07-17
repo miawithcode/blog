@@ -18,3 +18,5 @@ Now 页面会随着时间和当下生活的优先级而更新，用来**让别�
 ### 正在做
 
 - 通过[JavaScript Info](https://zh.javascript.info/)复习JavaScript
+- 复习CSS
+- 学习React
