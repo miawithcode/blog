@@ -1,7 +1,7 @@
 ---
 title: "Now"
 date: 2022-08-14
-lastmod: 2023-06-17
+lastmod: 2023-10-03
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -18,5 +18,6 @@ Now 页面会随着时间和当下生活的优先级而更新，用来**让别�
 ### 正在做
 
 - 通过[JavaScript Info](https://zh.javascript.info/)复习JavaScript
-- 复习CSS
+- 学习Tailwind
 - 学习React
+- 学习如何使用Vite

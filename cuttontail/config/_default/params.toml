@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
- mainSections = ["blog", "booknote"]
+ mainSections = ["blog"]
 # robots = ""
 
 disableImageOptimization = true
