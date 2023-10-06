@@ -1,5 +1,5 @@
 ---
-title: "开发一个 Portfolio 网页可以学到什么"
+title: "开发一个 Portfolio 网页后，我学到了什么"
 date: 2023-10-03T15:29:32+08:00
 # lastmod:
 tags: ["html", "css", "javascript", "frontend"]
