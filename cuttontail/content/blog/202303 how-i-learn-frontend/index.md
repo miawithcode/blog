@@ -1,10 +1,10 @@
 ---
-title: "如果能重来，我会怎么学习前端"
+title: "重生之我会如何学习前端"
 date: 2023-03-15T23:09:30+08:00
 lastmod: 2023-03-29
 tags: ["frontend"]
 summary: "学习前端的路线与用到的资源"
-slug: how-i-learn-frontend
+slug: how-will-i-learn-frontend-again
 ---
 
 ## HTML, CSS & JavaScript

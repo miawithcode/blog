@@ -1,7 +1,7 @@
 ---
 title: "创作者应该为谁创作？寻找创作自由"
 date: 2022-08-12T13:04:43+08:00
-tags: ["create"]
+tags: ["content creation"]
 description: ""
 summary: "在内容创作上，应该以「创造至少对世界上的一个人有帮助的东西」这样的心情去创作，还是以「为自己创造，让帮助到别人这件事成为附加奖励」的心情去创作呢..."
 slug: create-for-whom

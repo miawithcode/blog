@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
- mainSections = ["blog"]
+mainSections = ["blog"]
 # robots = ""
 
 disableImageOptimization = true
@@ -20,9 +20,9 @@ disableImageOptimization = true
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
- highlightCurrentMenuArea = true
- smartTOC = true
- smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -66,7 +66,7 @@ disableImageOptimization = true
   invertPagination = true
   showReadingTime = false
   showTableOfContents = true
-  showRelatedContent = true
+  showRelatedContent = false
   relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = true
@@ -116,13 +116,13 @@ disableImageOptimization = true
   cardViewScreenWidth = false
 
 [firebase]
-   apiKey = "AIzaSyCgVSzhtWbaxQSBZzWZks00MgVoSO7aCPA"
-   authDomain = "cuttontail.firebaseapp.com"
-   projectId = "cuttontail"
-   storageBucket = "cuttontail.appspot.com"
-   messagingSenderId = "934174669984"
-   appId = "1:934174669984:web:d1126405ad4ddd04b81dc5"
-   measurementId = "G-Z4CHFZFFYY"
+  apiKey = "AIzaSyCgVSzhtWbaxQSBZzWZks00MgVoSO7aCPA"
+  authDomain = "cuttontail.firebaseapp.com"
+  projectId = "cuttontail"
+  storageBucket = "cuttontail.appspot.com"
+  messagingSenderId = "934174669984"
+  appId = "1:934174669984:web:d1126405ad4ddd04b81dc5"
+  measurementId = "G-Z4CHFZFFYY"
 
 [fathomAnalytics]
   # site = "ABC12345"

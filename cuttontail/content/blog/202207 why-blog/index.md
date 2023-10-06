@@ -1,8 +1,8 @@
 ---
-title: "独立博客过时以后，为什么开始写博客了？"
+title: "独立博客过时后，为什么开始写博客了？"
 date: 2022-07-29T16:01:02+08:00
 lastmod: 2023-02-03
-tags: ["create"]
+tags: ["content creation"]
 description: ""
 summary: "写作即思考，不是我有什么话要说，是为了弄清楚我到底想说什么。"
 slug: why-blog
@@ -16,7 +16,7 @@ slug: why-blog
 - 如果我想写的东西别人已经写过了，我还有必要写吗？
 - ...
 
-抱着这样的疑惑和犹豫迟迟没有开始，直到最近读到Alexey Guzey的 [Why you should start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/) 才恍然大悟，鼓励了我把想法付诸实践。
+抱着这样的疑惑和犹豫迟迟没有开始，直到最近读到 Alexey Guzey 的 [Why you should start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/) 才恍然大悟，鼓励了我把想法付诸实践。
 
 ---
 ## 为什么要写博客？
@@ -26,7 +26,7 @@ slug: why-blog
 
 > 成就更关乎你输出的影响所带来的真正价值。你可以买全所有的奢侈品，你也可以看完所有的好电影，但这是世界对你的输入。以输入来判断一个人是尤为无聊的。
 
-这段话当头一棒把我敲醒，惊觉原来自己一直在接受被动输入。那些制定的读书计划，观影列表，储存的稍后读文章，都是计划着怎么向自己的大脑输入别人的想法。
+这段话xiang当头一棒把我敲醒，惊觉原来自己一直在接受被动输入。那些制定的读书计划，观影列表，储存的稍后读文章，都是计划着怎么向自己的大脑输入别人的想法。
 
 突然明白一个个体即使标记自己看了1000本书，1000部电影，他也不过是一个接受了世界很多输入的无聊的人。
 
@@ -44,7 +44,7 @@ Alexey Guzey 在 [Why You Should start a Blog Right Now](https://guzey.com/perso
 
 
 ### 你只知道那些你创造的
-Ali Abdaal在[一期如何建立Second Brain的视频](https://m.youtube.com/watch?v=OP3dA2GcAh8&feature=youtu.be)中提到 “**You Only Know What You Make**”。
+Ali Abdaal在[一期如何建立Second Brain的视频](https://m.youtube.com/watch?v=OP3dA2GcAh8&feature=youtu.be) 中提到 “**You Only Know What You Make**”。
 
 > 我们可以读想读的书，看想看的视频，听想听的播客，但你真正知道的，能真正影响你的生活的，能在你的未來項目中用到的，只有那些你创造的。比如读完书后做的读书总结，听完播客后自己写的见解，甚至是平时生活中产生的一个想法...当我们和自己创造的内容交互，而不是依赖于已经存在的那些别人的材料，我们会对这个内容更熟悉，也可以通过自己的东西做出更有趣的内容来。
 
@@ -75,7 +75,7 @@ David Perell 认为公开写作就像邀请别人到家里做客，你会打扫�
 
 这一点与私有笔记不一样，因为私有笔记不管写成什么样也只有自己会看，没有社交压力，不可避免地可以偷懒。但公开写博客，你输出的内容影响着别人会怎么看你，即使想偷懒也会逼自己把不懂的地方搞清楚。
 
-《Atomic Habits》的作者James Clear也说过：
+《Atomic Habits》的作者 James Clear 也说过：
 > If you wish you would take something more seriously, do it publicly… Social pressure forces you to up your game.     
 如果你希望自己能更认真地对待某件事情，那就公开地去做......社会压力逼你尽量提高你的水平。
 
@@ -91,13 +91,13 @@ David Perell 认为公开写作就像邀请别人到家里做客，你会打扫�
 ## 写博客到底要写什么？
 我在写什么这个问题上纠结了很久，也是我即使知道写博客有好处但是迟迟没能开始的原因。Alexey和Ali启发和指引了我。
 
-- Alexey推荐写：
+- Alexey 推荐写：
     1. 分享个人经验，也许其他人会从中受益
     2. 写阅读别人的文章时，自己产生的不同意的观点
     3. 写和朋友交流时产生的、别人可能也会感兴趣的想法
     4. 收集自己认为很有趣，也许别人也会觉得有趣的东西
 
-- Ali推荐写：
+- Ali 推荐写：
     1. 写至少对世界上一个人有帮助的内容（比如记录组装一台电脑的过程，学习语言时产生的学习心得…
     2. 写一本书的总结，从一本书中学到的观点，技巧，见解等
     3. 写听完一个播客后一直在脑子里忘不掉的那个观点
@@ -106,7 +106,7 @@ David Perell 认为公开写作就像邀请别人到家里做客，你会打扫�
 
 他们给的建议都是简单可行的，这些建议并不要求你去创造什么有很大价值的东西，只是记录，记录你的想法，记录你的过程，记录你的探索。
 
-Ali解释他很喜欢的一句话 “**Document, don’t create.**”：
+Ali 解释他很喜欢的一句话 “**Document, don’t create.**”：
 
 > Creating content and the concept of that is actually really hard. It feels like a big deal. But if you just think about documenting the stuff that you’re doing anyway. It becomes very easy to find ideas of things to write about.  
 创造内容和创建概念实际上非常困难，让人感觉这是件大事。但是，如果只是考虑记录你正在做的事情，很容易就能找到要写的想法。
@@ -121,7 +121,7 @@ Alexey 认为：
 
 我认为第2点很重要，我反思自己作为读者的过程中，确实不太会在第一次看到一个观点时就去做点什么，而是经过一段时间的阅读后，再次遇到相似的观点一次两次，慢慢被说服，逐渐去接受。
 
-创作歌手Tessa Violet在[一期关于创造力的视频](https://m.youtube.com/watch?v=QzBoGVToWEo&feature=youtu.be)中回答评论 “**我要怎么才能让我的歌曲听起来是原创的**” 时讲这样说：
+创作歌手 Tessa Violet 在[一期关于创造力的视频](https://m.youtube.com/watch?v=QzBoGVToWEo&feature=youtu.be)中回答评论 “**我要怎么才能让我的歌曲听起来是原创的**” 时讲这样说：
 
 > 如果一直担心自己一定要写出原创的东西，最后可能什么都写不出来。不要给自己压力，不用逼自己一定要原创，一定要写足够好的东西，这可以只是一件你在做的事，请允许你给你的创造力一次机会。
 

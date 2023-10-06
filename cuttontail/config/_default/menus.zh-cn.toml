@@ -47,11 +47,11 @@
   pageRef = "blog"
   weight = 10
 
-[[main]]
-  name = "Project"
-  parent = "Blog"
-  pageRef = "project"
-  weight = 10
+# [[main]]
+#   name = "Project"
+#   parent = "Blog"
+#   pageRef = "project"
+#   weight = 10
 
 # [[main]]
 #   name = "Project"
@@ -69,10 +69,10 @@
   pageRef = "booknote"
   weight = 20
 
- [[main]]
-   name = "Now"
-   pageRef = "now"
-   weight = 30
+[[main]]
+  name = "Now"
+  pageRef = "now"
+  weight = 30
 
 [[main]]
   name = "About"
@@ -84,7 +84,13 @@
 # the copyright notice. Configure as per the main menu above.
 
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+[[footer]]
+  name = "Projects"
+  pageRef = "project"
+  weight = 10
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 20
+

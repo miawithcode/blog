@@ -15,7 +15,7 @@ title = "小绵尾巴"
 
 [author]
   name = "小绵尾巴"
-  image = "img/avatar.jpg"
+  image = "img/avatar.png"
   # headline = "I'm only human"
   bio = "正在路上的前端工程师"
   links = [
@@ -23,7 +23,7 @@ title = "小绵尾巴"
     { twitter = "https://twitter.com/cuttondev" },
     { telegram = "https://t.me/cuttontail" },
     { email = "mailto:cuttontail@gmail.com" },
-   ]
+  ]
 
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
