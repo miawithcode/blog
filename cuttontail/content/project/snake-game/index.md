@@ -2,7 +2,7 @@
 title: "如何用JavaScript实现贪吃蛇游戏"
 date: 2023-03-08T04:43:06+08:00
 lastmod: 
-tags: ["project", "javascript"]
+tags: ["javascript"]
 summary: "JavaScript的练习项目，实现贪吃蛇游戏。"
 slug: how-to-build-a-snake-game-in-javascript
 ---

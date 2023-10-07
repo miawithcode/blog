@@ -2,7 +2,7 @@
 title: "如何用JavaScript实现秒表计时器"
 date: 2023-03-07T18:50:21+08:00
 lastmod: 
-tags: ["project", "javascript"]
+tags: ["javascript"]
 summary: "JavaScript的练习项目，实现开始计时，暂停计时，和重置时间的功能。"
 slug: how-to-build-a-stop-watch-in-javascript
 ---

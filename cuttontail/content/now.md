@@ -7,7 +7,7 @@ showReadingTime: false
 showWordCount: false
 showViews: false
 showLikes: false
-showTableOfContents: false
+# showTableOfContents: false
 showRelatedContent: false
 ---
 
