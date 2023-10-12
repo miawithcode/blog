@@ -117,9 +117,9 @@ Font Share 的使用方法和 Google Fonts 类似：在 HTML 的头部导入字�
    - 创建`styles`文件夹，把`style.css`移动到该文件夹下。并在`main.js`中修改文件路径：
 
      ```javascript
-     /* 将 import './style.css' 修改为 import './styles/style.css' */
+     /* 将 import './style.css' 修改为 import '../styles/style.css' */
 
-     import "./styles/style.css";
+     import "../styles/style.css";
      ```
 
    - 创建`src`文件夹，把`main.js`移动到该文件夹中，并在`index.html`中修改文件路径：
@@ -217,21 +217,20 @@ import "../styles/utils.css";
 假设需要 JavaScript 文件`mobile-nav.js`：
 
 1. 首先把所有 JavaScript 代码写在一个箭头函数下，并通过`export`导出。
+    ```javascript
+    const mobileNav = () => {
+    /* ... */
+    };
 
-   ```javascript
-   const mobileNav = () => {
-     /* ... */
-   };
-
-   export default mobileNav;
-   ```
+    export default mobileNav;
+    ```
 
 2. 在`main.js`中导入`mobile-nav.js`，并调用该箭头函数。
-  ```javascript
-  import mobileNav from './utils/mobile-nav';
+    ```javascript
+    import mobileNav from './utils/mobile-nav';
 
-  mobileNav();
-  ```
+    mobileNav();
+    ```
 
 ---
 
@@ -253,9 +252,9 @@ import "../styles/utils.css";
 ![](modern-normalize-vscode.png)
 
 5. 在`main.js`中的第一行导入`modern-normalize.css`，因为我们希望`modern-normalize.css`在项目中的优先级是**最低**的。
- ```javascript
- import "./styles/modern-normalize.css";
-````
+```javascript
+import "../styles/modern-normalize.css";
+```
 
 ![](modern-normalize-import.png)
 
@@ -376,7 +375,10 @@ strong {
 
 1. 在`style`文件夹下创建`utils.css`。
 2. 在`main.js`中导入了`utils.css`。要注意未来导入其他 CSS 文件时，需要确保`utils.css`永远是最后一个导入的 CSS 文件，因为它的优先级应该是最高的，否则里面的样式不会生效。
-   ![](utils-import.png)
+    ```javascript
+    import '../styles/utils.css';
+    ```
+    ![](utils-import.png)
 3. 我们在`utils.css`中定义那些样式相同并经常使用的元素，如按钮、容器、Section。
 
    - 首先添加按钮的样式。
