@@ -20,9 +20,9 @@ slug: create-a-wesite-using-github-pages-and-hugo
 ### 1.3 网站搭建思路
 
 1. 创建 2 个 GitHub 仓库
-   - **博客源仓库**：储存所有博客内容，以及博客中用到的图片等等
-   - **GitHub Pages 仓库**：将网页部署在 GitHub Pages
-2. 将在**博客源仓库**中 Hugo 生成的静态 HTML 文件部署到远端**GitHub Pages 仓库**中。
+   - **博客源仓库**：储存所有 Markdown 源文件（博客内容），和博客中用到的图片等。
+   - **GitHub Pages 仓库**：储存由 Hugo 从Markdown 文件生成的 HTML 文件。
+2. 将在**博客源仓库**中 Hugo 生成的静态 HTML 文件部署到远端 **GitHub Pages 仓库**中。
 
 ### 1.4 运行环境
 
@@ -103,8 +103,8 @@ slug: create-a-wesite-using-github-pages-and-hugo
 3. 用 Hugo 创建的网站共有 7 个文件夹和 1 个文件，这些文件分别代表：
    ![](hugo-files.png)
 
-   - **archetypes**：存放用 hugo 命令新建的 md 文件应用的 front matter 模版
-   - **content**：存放内容页面，如 Blog
+   - **archetypes**：存放用 hugo 命令新建的 Markdown 文件应用的 front matter 模版
+   - **content**：存放内容页面，比如「博客」、「读书笔记」等
    - **layouts**：存放定义网站的样式，写在`layouts`文件下的样式会覆盖安装的主题中的 `layouts`文件同名的样式
    - **static**：存放所有静态文件，如图片
    - **data**：存放创建站点时 Hugo 使用的其他数据
@@ -126,7 +126,7 @@ slug: create-a-wesite-using-github-pages-and-hugo
 
     ![](install-hugo-theme-command.png)
 
-2.  打开刚刚用 Hugo 创建的网站文件夹（我的是 cuttontail-blog），在终端输入文档中给出的命令。
+2.  打开刚刚用 Hugo 创建的网站文件夹（我的是 cuttontail-blog），在终端粘贴文档中给出的安装命令。
     ![](install-theme-command-terminal.png)
 3.  这时可以看到在`themes`文件夹中，多出了刚刚安装的主题文件，代表主题安装成功。
     ![](check-theme-installed.png)
@@ -136,7 +136,7 @@ slug: create-a-wesite-using-github-pages-and-hugo
 1. 一般安装的 Hugo 主题的文件结构中都会有 `exampleSite` 文件夹，也是你在选择主题时参考的网站 demo。
 2. **把 `exampleSite` 的文件复制到站点目录，在此基础上进行基础配置**。
    非常推荐这么做，这样做能解决很多「为什么明明跟教程一步一步做下来，显示的结果却不一样？」的疑惑。（这主要是因为不同的主题模版配置文件不同导致的。）
-3. 在把`exampleSite`文件复制到站点目录时，根据**对应**文件夹进行复制文件
+3. 在把`exampleSite`文件复制到站点目录时，请根据**对应**文件夹进行复制文件
 
    - 比如`exampleSite`下有 `content` ,  `static`  和  `config.toml` 3 个文件，就找到你自己的站点跟目录下这对应的三个文件。在把对应目录中的内容分别复制过去。
      ![](examplesite-file.png)
@@ -164,10 +164,10 @@ slug: create-a-wesite-using-github-pages-and-hugo
 hugo new xxx.md
 ```
 
-用这个命令创建的 Markdown 文件会套用 `archetypes` 文件夹中的 front matter 模版，在空白处用 Markdown 写入 blog 内容。
+用这个命令创建的 Markdown 文件会套用 `archetypes` 文件夹中的 front matter 模版，在空白处用 Markdown 写入内容。
 ![](hugo-new-md.png)
 
-其中：`draft: true`代表这篇文章是一个草稿，Hugo 不会显示草稿，要在主页显示添加的文章，可以设置 `draft: false`；或者直接删掉这行。
+其中，`draft: true`代表这篇文章是一个草稿，Hugo 不会显示草稿，要在主页显示添加的文章，可以设置 `draft: false`；或者直接删掉这行。
 
 ---
 
@@ -238,7 +238,7 @@ hugo new xxx.md
    ![](publish-on-my-website.png)
 
 8. 后续的更新步骤：
-   1. 创建你的文章.md
+   1. 创建你的文章`xxx.md`
    2. 用 `hugo server` 在本地预览，满意后准备发布。
    3. 运行 `hugo` 命令将 Markdown 文件生成 HTML 文件。
    4. 将修改先提交至**博客源仓库**

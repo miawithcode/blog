@@ -1,9 +1,9 @@
 ---
-title: "《掌控习惯》"
+title: "《掌控习惯》：如何设计生活，让好习惯更容易养成？"
 date: 2022-08-06T15:00:12+08:00
 tags: ["productivity"]
 description: ""
-summary: "如何设计生活，让好习惯更容易养成？"
+summary: ""
 slug: atomic-habits
 ---
 
