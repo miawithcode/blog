@@ -29,7 +29,7 @@ showLikes: false
 
 ## Don't be shy, let's connect!
 
-1. {{< icon "twitter" >}} [Twitter](https://twitter.com/cuttondev) - 我的 jibber jabber 。
+1. {{< icon "twitter" >}} [Twitter](https://twitter.com/miawithcode) - 我的 jibber jabber 。
 2. {{< icon "telegram" >}} [Telegram Channel](https://t.me/cuttontail) - 我在这里记录 **Today I Learned**（TIL），随手保存让我有共鸣，或有启发的互联网碎片信息。
 3. {{< icon "email" >}}
    如果有任何问题，或者其他想要交流的信息，我会很高兴收到你的邮件：**cuttontail@gmail.com**
