@@ -4,26 +4,26 @@ weight = 1
 title = "小绵尾巴"
 
 [params]
-  displayName = "ZH-CN"
-  isoCode = "zh-cn"
-  rtl = false
-  dateFormat = "2006-01-02"
-  logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  description = "小绵的独立博客"
-  # copyright = "Copy, _right?_ :thinking_face:"
+displayName = "ZH-CN"
+isoCode = "zh-cn"
+rtl = false
+dateFormat = "2006-01-02"
+logo = "img/logo.png"
+# secondaryLogo = "img/secondary-logo.png"
+description = "小绵的独立博客"
+# copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "小绵尾巴"
-  image = "img/avatar.jpg"
-  # headline = "I'm only human"
-  bio = "正在路上的前端工程师"
-  links = [
-    { github = "https://github.com/miawithcode" },
-    { twitter = "https://twitter.com/cuttondev" },
-    { telegram = "https://t.me/cuttontail" },
-    { email = "mailto:cuttontail@gmail.com" },
-  ]
+name = "小绵尾巴"
+image = "img/avatar.jpg"
+# headline = "I'm only human"
+bio = "正在路上的前端工程师"
+links = [
+  { github = "https://github.com/miawithcode" },
+  { twitter = "https://x.com/miawithcode" },
+  { telegram = "https://t.me/cuttontail" },
+  { email = "mailto:cuttontail@gmail.com" },
+]
 
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
