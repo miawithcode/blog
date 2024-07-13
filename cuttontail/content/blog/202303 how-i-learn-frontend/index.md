@@ -1,10 +1,11 @@
 ---
-title: "重生之我会如何学前端"
+title: '重生之我会如何学前端'
 date: 2023-03-15T23:09:30+08:00
 lastmod: 2023-03-29
-tags: ["html", "css", "javascript", "tailwind", "react", "nodejs"]
-summary: "学习前端的路线与用到的资源"
+tags: ['html', 'css', 'javascript', 'tailwind', 'react', 'nodejs']
+summary: '学习前端的路线与用到的资源'
 slug: how-i-learn-frontend
+draft: true
 ---
 
 ## HTML, CSS & JavaScript
