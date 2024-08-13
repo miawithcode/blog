@@ -1,5 +1,5 @@
-# Blog
+# Blog (Archive)
 
-Built with Hugo, deployed on Github Page.
+> Built with Hugo, deployed on Github Page.
 
-Visit https://cuttontail.blog/
+I won't update this blog anymore.
